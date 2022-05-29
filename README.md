@@ -1,4 +1,4 @@
-# MachineLearning_Course
+# MachineLearning_Course :mortar_board:
 Curso de Machine Learning en Python
 
 ## Temario
